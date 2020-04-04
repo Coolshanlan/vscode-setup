@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "C:\\Users\\Joey\\Anaconda3\\envs\\ame\\python.exe",
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.shell.windows": "C:\\User_C\\Git\\bin\\bash.exe",
+    "python.pythonPath": "C:/Users/Joey/Anaconda3/envs/torch/python.exe",
+    "workbench.colorTheme": "One Dark Pro",
+    "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?·～！￥…（）—【】、；：‘’“”，。《》？ ", //選字
+    "python.terminal.activateEnvironment": false,
+    "python.dataScience.askForKernelRestart": false,
+    "window.title": "${dirty}${activeEditorLong}${separator}${rootName}${separator}${appName}",
+    "files.trimTrailingWhitespace": true, //自動刪除文件空格
+    //"editor.fontFamily": "'Source Code Pro', Consolas, 'Courier New', monospace",
+    "material-icon-theme.folders.color": "#7cb342",
+    "oneDarkPro.vivid": true,
+    "oneDarkPro.bold": true,
+    "code-runner.runInTerminal": true,
+    "files.autoSave": "onFocusChange", //自動存檔
+    "code-runner.executorMap": {
+        "python": "\"$pythonPath\" -u $fullFileName",
+        "cpp": "cd $dir && g++ $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+    },
+    "window.zoomLevel": 0,
+    "editor.fontSize": 14.3,
+    "editor.mouseWheelZoom": true,
+    "editor.wordWrap": "on",
+    "editor.formatOnSave": true
+}
